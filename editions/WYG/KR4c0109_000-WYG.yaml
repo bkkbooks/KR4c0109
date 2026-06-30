@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4c0109/WYG/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 已
+  hash: sha256:a3b445efc48f2835e22eb9bce2f20f28d155b9dbded526a8f265535a76ec8f73
+metadata:
+  title: 白蓮集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-11 08:38:35.143346'
+  source:
+    repository: kanripo
+    path: KR4c0109/KR4c0109_000.txt
+hash: sha256:d3e128dfee746998ace5e232a3da7e88d3d1f23d8ea5b7fcb3ec816ceb8abac0
