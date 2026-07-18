@@ -150,6 +150,7 @@ markers:
   - {type: line-break, offset: 542, content: '', id: KR4c0109_SBCK_000-3a02}
   - {type: indent, offset: 542, content: 　　　　, id: KR4c0109_SBCK_000-bkkind4}
   - {type: punctuation, offset: 544, content: (, id: KR4c0109_SBCK_000-bkkpn1}
+  - {type: voice, offset: 544, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 548, content: ), id: KR4c0109_SBCK_000-bkkpn2}
   - {type: 'kr:newline', offset: 548, content: '
 
@@ -1051,6 +1052,7 @@ markers:
   - {type: indent, offset: 2277, content: 　, id: KR4c0109_SBCK_000-bkkind418}
   - {type: indent, offset: 2282, content: 　, id: KR4c0109_SBCK_000-bkkind419}
   - {type: punctuation, offset: 2290, content: (, id: KR4c0109_SBCK_000-bkkpn3}
+  - {type: voice, offset: 2290, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 2291, content: ), id: KR4c0109_SBCK_000-bkkpn4}
   - {type: 'kr:newline', offset: 2291, content: '
 
@@ -1287,6 +1289,7 @@ markers:
   - {type: indent, offset: 2710, content: 　, id: KR4c0109_SBCK_000-bkkind530}
   - {type: indent, offset: 2717, content: 　, id: KR4c0109_SBCK_000-bkkind531}
   - {type: punctuation, offset: 2719, content: (, id: KR4c0109_SBCK_000-bkkpn7}
+  - {type: voice, offset: 2719, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 2721, content: ), id: KR4c0109_SBCK_000-bkkpn8}
   - {type: 'kr:newline', offset: 2722, content: '
 
@@ -1984,6 +1987,7 @@ markers:
   - {type: line-break, offset: 4128, content: '', id: KR4c0109_SBCK_000-13a10}
   - {type: indent, offset: 4128, content: 　　, id: KR4c0109_SBCK_000-bkkind838}
   - {type: punctuation, offset: 4134, content: (, id: KR4c0109_SBCK_000-bkkpn9}
+  - {type: voice, offset: 4134, length: 5, name: note, id: n4}
   - {type: punctuation, offset: 4137, content: /, id: KR4c0109_SBCK_000-bkkpn10}
   - {type: punctuation, offset: 4139, content: ), id: KR4c0109_SBCK_000-bkkpn11}
   - {type: indent, offset: 4142, content: 　, id: KR4c0109_SBCK_000-bkkind839}
@@ -2149,4 +2153,4 @@ markers:
 
       ', id: KR4c0109_SBCK_000-bkkkrnewl305}
   back: []
-hash: sha256:8fa2d7f5f2fed1a401299c8fa9c30883178b495c8b26a761abb6c6ee7cfd37df
+hash: sha256:06c67a742f1c4875075004c26859ae4953c2c969b089556b34bbb7866c9d26f5

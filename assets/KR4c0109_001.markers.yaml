@@ -286,6 +286,7 @@ markers:
   - {type: indent, offset: 490, content: 　　　, id: KR4c0109_krp_001-bkkind19}
   - {type: variant, offset: 490, length: 1, content: 寄, SBCK: 􅀉}
   - {type: punctuation, offset: 495, content: (, id: KR4c0109_krp_001-bkkpn1}
+  - {type: voice, offset: 495, length: 3, name: note, id: n1}
   - {type: variant, offset: 497, length: 1, content: 歲, SBCK: 􅀊}
   - {type: variant, offset: 497, length: 1, content: 歲, WYG: 嵗}
   - {type: punctuation, offset: 498, content: ), id: KR4c0109_krp_001-bkkpn2}
@@ -1366,6 +1367,7 @@ markers:
   - {type: indent, offset: 2333, content: 　　　, id: KR4c0109_krp_001-bkkind60}
   - {type: page-break, offset: 2333, content: '', id: KR4c0109_WYG_001-11a, image: WYG1084/WYG1084-0333c.png}
   - {type: punctuation, offset: 2337, content: (, id: KR4c0109_krp_001-bkkpn3}
+  - {type: voice, offset: 2337, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 2339, content: ), id: KR4c0109_krp_001-bkkpn4}
   - {type: 'kr:newline', offset: 2339, content: '
 
@@ -2214,4 +2216,4 @@ markers:
   - {type: variant, offset: 3769, length: 0, content: '', WYG: 欽定四庫全書白蓮集巻二唐釋齊巳撰寄鄭谷郎中高}
   - {type: page-break, offset: 3769, content: '', id: KR4c0109_WYG_002-1a, image: WYG1084/WYG1084-0336c.png}
   back: []
-hash: sha256:c61360d0d129dba0dadf107fa46ec86c92b79d36d4b7643ac1751af697142003
+hash: sha256:8e0a3ff2069f6a695ee476df1a42658cf6d88fa31f13d7549b3d9f99273dda5a

@@ -1074,6 +1074,7 @@ markers:
   - {type: variant, offset: 1767, length: 1, content: 门, WYG: 門}
   - {type: substitution, offset: 1767, original: 门, replacement: 門, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16176}}
   - {type: punctuation, offset: 1768, content: (, id: KR4c0109_krp_004-bkkpn1}
+  - {type: voice, offset: 1768, length: 17, name: note, id: n1}
   - {type: punctuation, offset: 1770, content: ), id: KR4c0109_krp_004-bkkpn2}
   - {type: 'kr:newline', offset: 1770, content: '
 
@@ -1448,6 +1449,7 @@ markers:
   - {type: indent, offset: 2365, content: 　　　, id: KR4c0109_krp_004-bkkind60}
   - {type: variant, offset: 2370, length: 1, content: 寄, SBCK: 􅀉}
   - {type: punctuation, offset: 2374, content: (, id: KR4c0109_krp_004-bkkpn5}
+  - {type: voice, offset: 2374, length: 5, name: note, id: n2}
   - {type: variant, offset: 2376, length: 1, content: 闰, WYG: 閏}
   - {type: substitution, offset: 2376, original: 闰, replacement: 閏, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16565}}
   - {type: punctuation, offset: 2379, content: ), id: KR4c0109_krp_004-bkkpn6}
@@ -1661,6 +1663,7 @@ markers:
   - {type: variant, offset: 2742, length: 1, content: 從, SBCK: 􅀙}
   - {type: punctuation, offset: 2746, content: (, id: KR4c0109_krp_004-bkkpn7}
   - {type: variant, offset: 2746, length: 5, content: 又云三覚山, WYG: ''}
+  - {type: voice, offset: 2746, length: 5, name: note, id: n3}
   - {type: substitution, offset: 2749, original: 覚, replacement: 覺, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20629}}
   - {type: punctuation, offset: 2751, content: ), id: KR4c0109_krp_004-bkkpn8}
   - {type: 'kr:newline', offset: 2751, content: '
@@ -2231,4 +2234,4 @@ markers:
   - {type: page-break, offset: 3714, content: '', id: KR4c0109_WYG_004-16b, image: WYG1084/WYG1084-0361b.png}
   - {type: page-break, offset: 3714, content: '', id: KR4c0109_WYG_005-1a, image: WYG1084/WYG1084-0361c.png}
   back: []
-hash: sha256:16e501b89f16b4e862e12b45a48984cb2d48e565680a8c3032ff5a6561337621
+hash: sha256:804bbd46e301634243a0fdc70bbab676e67c79f87edc3d007cd3d84a682b8b29

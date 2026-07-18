@@ -42,6 +42,7 @@ markers:
   - {type: substitution, offset: 64, original: 黙, replacement: 默, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20742}}
   - {type: variant, offset: 69, length: 1, content: 牆, WYG: 墻}
   - {type: punctuation, offset: 70, content: (, id: KR4c0109_krp_007-bkkpn1}
+  - {type: voice, offset: 70, length: 15, name: note, id: n1}
   - {type: punctuation, offset: 78, content: /, id: KR4c0109_krp_007-bkkpn2}
   - {type: variant, offset: 83, length: 1, content: 却, SBCK: 􅁍}
   - {type: variant, offset: 83, length: 1, content: 却, WYG: 不}
@@ -878,6 +879,7 @@ markers:
   - {type: indent, offset: 1850, content: 　　　, id: KR4c0109_krp_007-bkkind38}
   - {type: page-break, offset: 1850, content: '', id: KR4c0109_WYG_007-8b, image: WYG1084/WYG1084-0382b.png}
   - {type: punctuation, offset: 1855, content: (, id: KR4c0109_krp_007-bkkpn4}
+  - {type: voice, offset: 1855, length: 6, name: note, id: n2}
   - {type: variant, offset: 1858, length: 1, content: 州, WYG: 川}
   - {type: punctuation, offset: 1861, content: ), id: KR4c0109_krp_007-bkkpn5}
   - {type: 'kr:newline', offset: 1861, content: '
@@ -1240,6 +1242,7 @@ markers:
   - {type: indent, offset: 2609, content: 　　　, id: KR4c0109_krp_007-bkkind50}
   - {type: page-break, offset: 2609, content: '', id: KR4c0109_WYG_007-11b, image: WYG1084/WYG1084-0383d.png}
   - {type: punctuation, offset: 2614, content: (, id: KR4c0109_krp_007-bkkpn6}
+  - {type: voice, offset: 2614, length: 4, name: note, id: n3}
   - {type: variant, offset: 2615, length: 1, content: 于, WYG: 於}
   - {type: punctuation, offset: 2618, content: ), id: KR4c0109_krp_007-bkkpn7}
   - {type: 'kr:newline', offset: 2618, content: '
@@ -2367,4 +2370,4 @@ markers:
   - {type: variant, offset: 5116, length: 0, content: '', WYG: 欽定四庫全書白蓮集巻八唐釋齊已撰}
   - {type: page-break, offset: 5116, content: '', id: KR4c0109_WYG_008-1a, image: WYG1084/WYG1084-0389a.png}
   back: []
-hash: sha256:e30634ecc7d0fa38be111e804194e0bc1285baa94ea07b05639843a875f7d7bf
+hash: sha256:945e3fb9097eed0561761d052d6f8b2a6d45045b831755cad5c7284be62ecb6b

@@ -308,6 +308,7 @@ markers:
   - {type: line-break, offset: 676, content: '', id: KR4c0109_SBCK_008-3a03}
   - {type: indent, offset: 676, content: 　　　, id: KR4c0109_krp_008-bkkind18}
   - {type: punctuation, offset: 686, content: (, id: KR4c0109_krp_008-bkkpn1}
+  - {type: voice, offset: 686, length: 6, name: note, id: n1}
   - {type: punctuation, offset: 692, content: ), id: KR4c0109_krp_008-bkkpn2}
   - {type: 'kr:newline', offset: 692, content: '
 
@@ -1511,6 +1512,7 @@ markers:
   - {type: substitution, offset: 3293, original: 禅, replacement: 禪, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17531}}
   - {type: substitution, offset: 3301, original: 岳, replacement: 嶽, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20630}}
   - {type: punctuation, offset: 3307, content: (, id: KR4c0109_krp_008-bkkpn3}
+  - {type: voice, offset: 3307, length: 13, name: note, id: n2}
   - {type: substitution, offset: 3311, original: 岳, replacement: 嶽, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20630}}
   - {type: punctuation, offset: 3314, content: /, id: KR4c0109_krp_008-bkkpn4}
   - {type: variant, offset: 3315, length: 1, content: 卷, WYG: 巻}
@@ -1671,6 +1673,7 @@ markers:
   - {type: line-break, offset: 3650, content: '', id: KR4c0109_SBCK_008-11b04}
   - {type: indent, offset: 3650, content: 　　　, id: KR4c0109_krp_008-bkkind63}
   - {type: punctuation, offset: 3654, content: (, id: KR4c0109_krp_008-bkkpn6}
+  - {type: voice, offset: 3654, length: 10, name: note, id: n3}
   - {type: punctuation, offset: 3659, content: /, id: KR4c0109_krp_008-bkkpn7}
   - {type: punctuation, offset: 3664, content: ), id: KR4c0109_krp_008-bkkpn8}
   - {type: 'kr:newline', offset: 3664, content: '
@@ -2179,6 +2182,7 @@ markers:
   - {type: variant, offset: 4781, length: 1, content: 岳, WYG: 嶽}
   - {type: substitution, offset: 4781, original: 岳, replacement: 嶽, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20630}}
   - {type: punctuation, offset: 4788, content: (, id: KR4c0109_krp_008-bkkpn9}
+  - {type: voice, offset: 4788, length: 2, name: note, id: n4}
   - {type: punctuation, offset: 4789, content: /, id: KR4c0109_krp_008-bkkpn10}
   - {type: punctuation, offset: 4790, content: ), id: KR4c0109_krp_008-bkkpn11}
   - {type: 'kr:newline', offset: 4790, content: '
@@ -2318,4 +2322,4 @@ markers:
   - {type: variant, offset: 5041, length: 0, content: '', WYG: 欽定四庫全書白蓮集巻九唐釋齊已撰}
   - {type: page-break, offset: 5041, content: '', id: KR4c0109_WYG_009-1a, image: WYG1084/WYG1084-0400a.png}
   back: []
-hash: sha256:7bd92ab92f0ffe4488733412621bcc18a20a8eed094314f8714963d556f1671b
+hash: sha256:550377282273fe2b9eb21ddad7c6837bb5bb0f846def69ea935904f93095084d

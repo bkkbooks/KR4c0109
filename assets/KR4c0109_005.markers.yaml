@@ -872,6 +872,7 @@ markers:
   - {type: variant, offset: 1478, length: 1, content: 问, WYG: 問}
   - {type: substitution, offset: 1478, original: 问, replacement: 問, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16388}}
   - {type: punctuation, offset: 1484, content: (, id: KR4c0109_krp_005-bkkpn1}
+  - {type: voice, offset: 1484, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 1486, content: ), id: KR4c0109_krp_005-bkkpn2}
   - {type: 'kr:newline', offset: 1486, content: '
 
@@ -2042,4 +2043,4 @@ markers:
   - {type: variant, offset: 3669, length: 0, content: '', WYG: 欽定四庫全書白蓮集巻六唐釋齊已撰}
   - {type: page-break, offset: 3669, content: '', id: KR4c0109_WYG_006-1a, image: WYG1084/WYG1084-0369a.png}
   back: []
-hash: sha256:c811331eeefd531fbb21a9c695120a8ab187a9166c81b92ab1cedb2272db70df
+hash: sha256:0a0adbdf4904326e66dca0b1f962174863f61f85821fcf0c05cb05dee2f11ee2

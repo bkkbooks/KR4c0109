@@ -195,6 +195,7 @@ markers:
   - {type: line-break, offset: 366, content: '', id: KR4c0109_SBCK_009-2a05}
   - {type: indent, offset: 366, content: 　　　, id: KR4c0109_krp_009-bkkind13}
   - {type: punctuation, offset: 372, content: (, id: KR4c0109_krp_009-bkkpn1}
+  - {type: voice, offset: 372, length: 19, name: note, id: n1}
   - {type: variant, offset: 377, length: 1, content: 于, WYG: 於}
   - {type: punctuation, offset: 382, content: /, id: KR4c0109_krp_009-bkkpn2}
   - {type: punctuation, offset: 391, content: ), id: KR4c0109_krp_009-bkkpn3}
@@ -222,6 +223,7 @@ markers:
   - {type: variant, offset: 438, length: 1, content: 来, WYG: 來}
   - {type: substitution, offset: 438, original: 来, replacement: 來, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16500}}
   - {type: punctuation, offset: 447, content: (, id: KR4c0109_krp_009-bkkpn4}
+  - {type: voice, offset: 447, length: 6, name: note, id: n2}
   - {type: punctuation, offset: 450, content: /, id: KR4c0109_krp_009-bkkpn5}
   - {type: punctuation, offset: 453, content: ), id: KR4c0109_krp_009-bkkpn6}
   - {type: 'kr:newline', offset: 453, content: '
@@ -765,6 +767,7 @@ markers:
   - {type: line-break, offset: 1570, content: '', id: KR4c0109_SBCK_009-5b04}
   - {type: indent, offset: 1570, content: 　　　, id: KR4c0109_krp_009-bkkind33}
   - {type: punctuation, offset: 1573, content: (, id: KR4c0109_krp_009-bkkpn7}
+  - {type: voice, offset: 1573, length: 9, name: note, id: n3}
   - {type: punctuation, offset: 1582, content: ), id: KR4c0109_krp_009-bkkpn8}
   - {type: 'kr:newline', offset: 1582, content: '
 
@@ -2155,4 +2158,4 @@ markers:
   - {type: variant, offset: 4543, length: 0, content: '', WYG: 欽定四庫全書白蓮集巻十唐釋齊已撰}
   - {type: page-break, offset: 4543, content: '', id: KR4c0109_WYG_010-1a, image: WYG1084/WYG1084-0410c.png}
   back: []
-hash: sha256:d5e69173209cc3f38f1bb45c3ad2cc12157ec5c5e9c35379dd72d3ac600d3fd8
+hash: sha256:a09f6a996b09a7bf05d010a7f84a3ac745cd5d990a86adcfa5a04793001c7f96
